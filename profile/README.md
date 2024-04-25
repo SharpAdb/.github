@@ -1,9 +1,9 @@
-### Welcome SharpAdb Project 👋
+### Welcome to SharpAdb Project 👋
 
-- 🔭 What we are doing：
+- 🔭 What we are doing:
   - [AdvancedSharpAdbClient](https://github.com/SharpAdb/AdvancedSharpAdbClient)
-  - [AdvancedSharpAdbClient.WinRT](https://github.com/SharpAdb/AdvancedSharpAdbClient.WinRT)
   - [AAPTForNet](https://github.com/SharpAdb/AAPTForNet)
+  - [AAPT2ForNET](https://github.com/SharpAdb/AAPT2ForNET)
 
 <!--
 
